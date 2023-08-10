@@ -1,3 +1,3 @@
 # Political_Ideology-Twitter
 
-Used the data set #Democrat Vs. Republican Tweets <a href="https://www.kaggle.com/datasets/kapastor/democratvsrepublicantweets">
+Used the data set #Democrat Vs. Republican Tweets ["https://www.kaggle.com/datasets/kapastor/democratvsrepublicantweets"]
